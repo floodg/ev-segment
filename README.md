@@ -90,7 +90,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-To run the page with analytics calls, run
+To run the page with analytics calls, run (not sure how this works)
 
 ```
 REACT_APP_SEGMENT_WRITE_KEY=<write_key_here> yarn start
